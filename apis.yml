@@ -1,0 +1,78 @@
+aid: natron
+name: Natron Energy
+description: >-
+  Natron Energy was a Santa Clara, California sodium-ion battery company
+  spun out of Stanford University in 2012 by Colin Wessells, building cells
+  based on a Prussian blue analog (PBA) chemistry that promised long
+  cycle life, fast charge and discharge, non-flammability, and a domestic
+  supply chain free of lithium, cobalt, and nickel. Natron's product line
+  was aimed at critical power and industrial backup applications, including
+  the BlueTray 4000 — a 48 VDC, 4 kW (6 kW peak), 50 V rack-mounted
+  sodium-ion battery tray — and the BlueRack 250 / 500 kW battery cabinets
+  targeted at data center UPS, peak shaving, and EV fast-charging support.
+  The company stood up the first U.S. sodium-ion mass-production line in
+  Holland, Michigan in 2024 (a converted Clarios facility, ~600 MW/yr
+  nameplate) and announced a planned $1.4 billion factory in Kingsboro
+  (Rocky Mount), North Carolina that was expected to create more than
+  1,000 jobs. Investors included Khosla Ventures, Chevron Technology
+  Ventures, United Airlines Ventures, Aramco Ventures, and Sherwood
+  Partners. After ~$373M raised, on August 27, 2025 Natron's board
+  determined that ongoing fundraising and order-pipeline efforts were
+  unsuccessful; the company filed a WARN notice and permanently ceased
+  operations on September 3, 2025, terminating staff at both the Holland,
+  MI and Santa Clara, CA sites and cancelling the North Carolina factory.
+  Sherwood Partners, the largest shareholder, took over wind-down and
+  asset disposition. Natron was a battery hardware OEM with no public
+  developer API, SDK, GitHub organization, or programmable cloud surface.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Energy Storage
+  - Batteries
+  - Sodium-Ion Batteries
+  - Prussian Blue Analog
+  - PBA Chemistry
+  - Data Center UPS
+  - Critical Power
+  - Industrial Backup
+  - Peak Shaving
+  - EV Charging Support
+  - Hardware
+  - Cleantech
+  - U.S. Manufacturing
+  - Defunct
+url: https://raw.githubusercontent.com/api-evangelist/natron/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://natron.energy
+  - type: Company
+    url: https://natron.energy/company
+  - type: USManufacturing
+    url: https://natron.energy/company/u-s-manufacturing
+  - type: Products
+    url: https://natron.energy/products
+  - type: BlueTray4000
+    url: https://natron.energy/products/bluetray-4000
+  - type: BlueRack250
+    url: https://natron.energy/products/bluerack-250-battery-cabinet
+  - type: DataCenters
+    url: https://natron.energy/industries/data-centers-critical-power
+  - type: BlueRack250Datasheet
+    url: https://natron.energy/files/br250_industrial_datasheet_rev2.5_061324-1.pdf
+  - type: WARNNotice
+    url: https://www.michigan.gov/leo/-/media/Project/Websites/leo/Documents/WD-DATA_PUBLIC_WARN_NOTICES4/2025/2025-08-29_WARN-Notice_Natron-Energy-Inc.pdf
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Natron_Energy
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/natron-energy
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/natron-energy
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
