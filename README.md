@@ -1,4 +1,4 @@
-# natron
+# Natron Energy
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Natron Energy — sodium-ion (Prussian blue analog) batteries for data center UPS and industrial backup; ceased operations Sept 2025.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
+
+Natron Energy was a Santa Clara, California sodium-ion battery company spun out of Stanford University in 2012 by Colin Wessells, building cells based on a Prussian blue analog (PBA) chemistry that promised long cycle life, fast charge and discharge, non-flammability, and a domestic supply chain free of lithium, cobalt, and nickel. Natron's product line was aimed at critical power and industrial backup applications, including the BlueTray 4000 — a 48 VDC, 4 kW (6 kW peak), 50 V rack-mounted sodium-ion battery tray — and the BlueRack 250 / 500 kW battery cabinets targeted at data center UPS, peak shaving, and EV fast-charging support. The company stood up the first U.S. sodium-ion mass-production line in Holland, Michigan in 2024 (a converted Clarios facility, ~600 MW/yr nameplate) and announced a planned $1.4 billion factory in Kingsboro (Rocky Mount), North Carolina that was expected to create more than 1,000 jobs. Investors included Khosla Ventures, Chevron Technology Ventures, United Airlines Ventures, Aramco Ventures, and Sherwood Partners. After ~$373M raised, on August 27, 2025 Natron's board determined that ongoing fundraising and order-pipeline efforts were unsuccessful; the company filed a WARN notice and permanently ceased operations on September 3, 2025, terminating staff at both the Holland, MI and Santa Clara, CA sites and cancelling the North Carolina factory. Sherwood Partners, the largest shareholder, took over wind-down and asset disposition. Natron was a battery hardware OEM with no public developer API, SDK, GitHub organization, or programmable cloud surface.
+
+**Areas:** Energy Storage · Batteries · Sodium-Ion Batteries · Prussian Blue Analog · PBA Chemistry · Data Center UPS · Critical Power · Industrial Backup · Peak Shaving · EV Charging Support · Hardware · Cleantech
+
+## Natron Energy on APIs.io (historical record)
+
+Everything profiled for Natron Energy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/natron/](https://apis.io/providers/natron/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Natron Domain Security](https://apis.io/security/natron/natron-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://natron.energy)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Natron Energy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/natron/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
